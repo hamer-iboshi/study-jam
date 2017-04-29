@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">StudyJam2017</string>
+    <string name="tvi_text">I'm Groot!</string>
     <string name="s_button">Button</string>
 </resources>
