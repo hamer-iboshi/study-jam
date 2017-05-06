@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="7645930384550"
+    token="-6234086914742434104"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="441" />
+    <task
+        name="instant-run-dex"
+        duration="9" />
+    <task
+        name="instant-run-transform"
+        duration="35" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="6948705726740"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="7355465445619"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/builds/debug/7355465445619/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7517072921990"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/builds/debug/7517072921990/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7645930384550"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

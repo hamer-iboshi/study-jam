@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_8ca12dbf698f61efb2e43560608f864c66610ed3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_eabd28c217c5c5ea22936f3195af82ac7a37f93c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_91ba0b1a6631d23b3673c77b2ebc703a55b704db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_636740e1cdcc7ab944092ebf7357ede86c603c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_1587c4cff2e2d4399b74437e738ac5ab228d5ab3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="46e75e22f313e2606537e3d7c350b6a3c86170db">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0bcaf93c83cf785afde0a3e4ad7151d0c9bf4882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_a1cdd29be068a86b2dd6bb3ea2c129f490c8b2ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_8f51336b36e9eab1c8ee0a6799bae2c89289100e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_13385701557940035f53f381d54dfb1d355bf61d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_79ed3bd7e20a8e73cae7285feafa336076b52fbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_b3dcb57cd7b4375feb77e0a389caba02635ef68c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_d3344ecff6752650ebf72b575c4dcc9e2919b223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_0885ef03c8cb8532fac7e0911d69c9db7afeefb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_8a533971c91ca5a118ed222b903999e170749c27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_a57dfbcfa7a019f09f01d8daffb6e67ab6012a52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_9fbae0062fcbc7cc0b6f681eafd5a120e9fa516e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_c231958d8fe9e1a661ba2d0cca2880604ad2577b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_2d4c5a3a9541cc4518ba84f90d100fa3df665cf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_967fad536b4893b6a0149c3961242a51cfba8cef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_86300eea7598cc577c32162ca1c2983bf3e417ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_4cc02095d5f7357bd4c826d1fe93920b7d392af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_0019a6149c2a14b5082b5063c0b684aca7b606ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_4a6c476b37d720f850e4c7aa89cbd35329dde369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_184c48c2244c5e0a10c462c115ff9f684041eeb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_f6b10d5f7aedcc7746dd4357bce1ad7f4bc39eea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_76a433c6466406729871d5f472c2bb35f9c32805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_18bb919f3c5293c77471ab9c7f0f6b0c55496533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_c867be739a4bd485906ac1670b0bdf7fdc08627b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_da9771b7cae14a3f4367eb8e33b981b01041fc03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_edd6c679abf982f181bd4f9158a0c529446bf983/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_df9c9fb4afd1499b5788f0d2f3f05bf66801dc18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_6ea4087a125db199258f8f150cf044dc7615d223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_07eeeb723507e3f9b7eb9e34d5943d7c6543391e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_a6b548247bdd617ce41887d863e1d7ce6343b9da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_c69debcee1d2dcdd2558acf23b58922f6a70671c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_726bbc692638aecd7f8146243f24f65409010e02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_809fae1b61b7dc2cb2ce69a5b92321948f404353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_2f9535803b62737df953d6afb812e963354f09b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_10fd886c21f85246a0a14dfdf4af71152a398dea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_012f7d91ca4dfcba379742c17e0e22372c04665a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_79998e0b04d080491072c8138d58f0f08234551a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_a53ff562fc9020b72d22ecd81e9a81f0f8a638d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_ed6708704d5bbb892210cf6722024f42e2692bdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_89ba9116c9ea145dacd5c9407d961048cbe005cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_84f18639d21f50b58b144fb5ba26e5c179044db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_95dc12de21522826d1fd71d810fabe11b6da9e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_ee1e2f2f5d741d41684bd862b4a2e5a2860796c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_9ab6a091cf1e0e9a5716fe076e2014216d764185/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_78911cc0c95a3e91c2425a3b4c5c6ebdd0f17acb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_0012681eb1a2100f857a59cf3392e917d2a0d25c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_73be926e101d73a211546ab814c5824acde33ef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_be4272624052cc7456d0030fb40038be90f115f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea9ef5573b2dc2dbd541e22c8632277dceb1bc25">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_937bf5a8f5380c6f0dee5bcc1bdcf215895c989b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_34c2800097e48b88910497d3ca02c939d871d6c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_e2ddfe2231f63f13ea9d8cd25056a7cb2d1c95be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_20802abe5deac89850aa3ce85fee617fd9cde7d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_e64098cf3f852514db080d57543630201b737f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_9d8cf5a7e954f937f2b1e3247ad54f5cdeeff6fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_ad66dc40eeabd11ec2945a53eb93e70e94384b44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_2c60655000ee8538c922e261a0460d933a1839e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_376ab58a15ee5bda553a0e807932e816b1fd07fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_ceb2c6e694f0b44054ce179565ccc2ec062ee10b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_dc79701f54a1f898604a286dcffa3eadb3f63d3d/classes.dex" />
+    </item>
+
+</items>
