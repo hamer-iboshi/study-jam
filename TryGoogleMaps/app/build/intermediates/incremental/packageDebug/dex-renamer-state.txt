@@ -1,0 +1,7 @@
+#Sat May 06 15:45:18 BRT 2017
+base.0=/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_937bf5a8f5380c6f0dee5bcc1bdcf215895c989b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0bcaf93c83cf785afde0a3e4ad7151d0c9bf4882/classes.dex
+base.1=/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0bcaf93c83cf785afde0a3e4ad7151d0c9bf4882
+file.0=/Users/developer/hi15/study-jam/TryGoogleMaps/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_937bf5a8f5380c6f0dee5bcc1bdcf215895c989b/classes.dex
