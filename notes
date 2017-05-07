@@ -1,0 +1,16 @@
++Views
++Group Views
+	-Orientation
+		Vertical = column
+		Horizontal = row
+
++LinearLayout
+	+widths/heigth
+		-wrap_content
+		-match_parent
+	+Evenly spacing out childrens views
+		-layout_weigth = 1 and layout_(heigth/width)=0dp
++RelativeLayout
+	-layout_alignParent(Top/Right/..)=true/false
+	-layout_(toLeftOf/above/..)=idOfSomeView
+	-padding and margin
