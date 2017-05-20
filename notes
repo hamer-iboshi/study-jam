@@ -14,3 +14,10 @@
 	-layout_alignParent(Top/Right/..)=true/false
 	-layout_(toLeftOf/above/..)=idOfSomeView
 	-padding and margin
++RecyclerView
+	Show data dinamicaly according to the size of scream
+	https://github.com/AlvarDev/Listen-To
+Week-Challenges:
+	+ How to call views
+		Comunication between views (Intent)
+
